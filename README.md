@@ -8,4 +8,4 @@ The major points that our project, **16-bit Arithmetic-Logic Unit** covered are 
   tested the model using different test-vectors to cover all edge cases with a test-bench
   
 <br>
-The "images" folder contains snapshots of the simulation and results. The code is contained in "GeneralALU.txt".
+The "images" folder contains snapshots of the simulation and results. The code is contained in "GeneralALU.vhdl".
